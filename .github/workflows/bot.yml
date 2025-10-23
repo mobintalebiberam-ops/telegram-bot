@@ -18,11 +18,10 @@ jobs:
       with:
         php-version: '8.2'
         
-    - name: Install dependencies
+       - name: Setup and Run Bot
       run: |
-        rm -f composer.lock
-        cp composer-new.json composer.json
-        composer install
+        wget -q https://phar.madelineproto.xyz/madeline.php
+        php main.php
         
     - name: Run Telegram Bot
       run: php main.php
