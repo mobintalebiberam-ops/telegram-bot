@@ -21,6 +21,7 @@ jobs:
     - name: Download and run bot
       run: |
         wget -q https://phar.madelineproto.xyz/madeline.php
-        echo "Bot starting..."
-        timeout 300 php main.php || true
-        echo "Bot finished"
+        echo "=== All files in directory ==="
+        ls -la
+        echo "=== Running main.php ==="
+        php main.php
