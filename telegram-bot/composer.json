@@ -1,11 +1,6 @@
 {
     "require": {
         "php": "^8.2",
-        "danog/madelineproto": "^8.0",
-        "ext-curl": "*",
-        "ext-mbstring": "*",
-        "ext-zip": "*",
-        "ext-xml": "*", 
-        "ext-json": "*"
+        "danog/madelineproto": "^8.0"
     }
 }
