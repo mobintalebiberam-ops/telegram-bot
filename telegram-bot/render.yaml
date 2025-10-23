@@ -1,7 +1,0 @@
-services:
-  - type: worker
-    name: telegram-bot
-    env: php
-    buildCommand: ""
-    startCommand: php BotSorce_Omega_Self.php
-    plan: free
