@@ -23,5 +23,8 @@ jobs:
         wget -q https://phar.madelineproto.xyz/madeline.php
         echo "=== All files in directory ==="
         ls -la
+        echo "=== Files in telegram-bot folder ==="
+        ls -la telegram-bot/
         echo "=== Running main.php ==="
+        cd telegram-bot
         php main.php
