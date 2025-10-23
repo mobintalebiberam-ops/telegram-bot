@@ -4,8 +4,8 @@
         "danog/madelineproto": "^8.0",
         "ext-curl": "*",
         "ext-mbstring": "*",
-        "ext-zip": "*", 
-        "ext-xml": "*",
+        "ext-zip": "*",
+        "ext-xml": "*", 
         "ext-json": "*"
     }
 }
