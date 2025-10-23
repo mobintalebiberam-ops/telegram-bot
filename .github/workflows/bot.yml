@@ -22,7 +22,12 @@ jobs:
       run: |
         wget -q https://phar.madelineproto.xyz/madeline.php
         cd telegram-bot
-        echo "=== Testing MadelineProto ==="
-        php -r "include 'madeline.php'; echo 'MadelineProto loaded successfully!';"
-        echo "=== Running bot with timeout ==="
-        timeout 60 php main.php || echo "Bot finished or timed out"
+        echo "=== Testing bot token ==="
+        php -r "
+        include 'madeline.php';
+        \$MadelineProto = new \danog\MadelineProto\API('bot.madeline');
+        \$MadelineProto->botLogin('8290477948:AAEog2I1VOWq_M-FKoW7DiDoIXzvsFRX36s');
+        echo 'Bot login successful!';
+        "
+        echo "=== Running main bot ==="
+        timeout 120 php main.php || echo "Bot finished"
