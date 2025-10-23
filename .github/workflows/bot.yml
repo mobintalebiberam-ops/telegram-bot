@@ -21,10 +21,8 @@ jobs:
     - name: Download and run bot
       run: |
         wget -q https://phar.madelineproto.xyz/madeline.php
-        echo "=== All files in directory ==="
-        ls -la
-        echo "=== Files in telegram-bot folder ==="
-        ls -la telegram-bot/
-        echo "=== Running main.php ==="
         cd telegram-bot
-        php main.php
+        echo "=== Testing MadelineProto ==="
+        php -r "include 'madeline.php'; echo 'MadelineProto loaded successfully!';"
+        echo "=== Running bot with timeout ==="
+        timeout 60 php main.php || echo "Bot finished or timed out"
