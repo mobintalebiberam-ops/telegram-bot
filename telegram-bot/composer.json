@@ -1,0 +1,10 @@
+{
+    "require": {
+        "php": ">=7.4",
+        "ext-curl": "*",
+        "ext-mbstring": "*",
+        "ext-zip": "*", 
+        "ext-xml": "*",
+        "ext-json": "*"
+    }
+}

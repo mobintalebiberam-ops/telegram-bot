@@ -1,0 +1,344 @@
+Logger:         	MadelineProto 8.6.0
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter:     	Connecting to DC 2
+DataCenterConnection: 	Restoring 0 messages to DC 2
+Session:        	Resetting session in DC 2.0 due to creating initial session...
+Connection:     	Connecting to DC 2.0 via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 2
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 2
+Connection:     	Connected to DC 2.0 via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+MTProto:        	AUTH_KEY_UNREGISTERED
+APIWrapper:     	MadelineProto is ready!
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+AbstractServer: 	Accepted IPC client connection!
+Login:          	Logging in as a bot...
+ResponseHandler: 	Resending auth.importBotAuthorization with message ID 7564180536383400104 sent 0.188578034 seconds ago to new DC 4...
+DataCenter:     	Connecting to DC 4
+DataCenterConnection: 	Restoring 0 messages to DC 4
+Session:        	Resetting session in DC 4.0 due to creating initial session...
+Connection:     	Connecting to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection: 	Handling auth key transition to UNENCRYPTED_NO_PERMANENT in DC 4
+DataCenterConnection: 	Generating permanent authorization key for DC 4...
+Connection:     	Connected to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+AuthKeyHandler: 	Factorizing with native_single_cpp (please wait, might take a while)
+AuthKeyHandler: 	Factorizing with python_single_alt (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with python_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with native_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Auth key generated
+DataCenterConnection: 	Finished auth key transition to UNENCRYPTED_NO_PERMANENT in DC 4
+DataCenterConnection: 	Handling auth key transition to UNENCRYPTED in DC 4
+DataCenterConnection: 	Generating temporary authorization key for DC 4...
+AuthKeyHandler: 	Factorizing with native_single_cpp (please wait, might take a while)
+AuthKeyHandler: 	Factorizing with python_single_alt (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with python_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with native_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Auth key generated
+DataCenterConnection: 	Finished auth key transition to UNENCRYPTED in DC 4
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_BOUND in DC 4
+DataCenterConnection: 	Bound temporary and permanent authorization keys, DC 4
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_INITED in DC 4
+DataCenterConnection: 	Writing client info (also executing help.getConfig)...
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED_NOT_INITED in DC 4
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 4
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 4
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+Login:          	Logged in successfully!
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_AUTHED in DC 2
+DataCenterConnection: 	Trying to copy authorization from DC 4 to DC 2
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED in DC 4
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED in DC 4
+Logger:         	MadelineProto 8.6.0
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter:     	Connecting to DC 2
+DataCenterConnection: 	Restoring 0 messages to DC 2
+Session:        	Resetting session in DC 2.0 due to creating initial session...
+Connection:     	Connecting to DC 2.0 via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 2
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 2
+Connection:     	Connected to DC 2.0 via tcp://149.154.167.41:443 main DC 2, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+MTProto:        	AUTH_KEY_UNREGISTERED
+APIWrapper:     	MadelineProto is ready!
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+AbstractServer: 	Accepted IPC client connection!
+Login:          	Logging in as a bot...
+ResponseHandler: 	Resending auth.importBotAuthorization with message ID 7564182580787888448 sent 0.224521792 seconds ago to new DC 4...
+DataCenter:     	Connecting to DC 4
+DataCenterConnection: 	Restoring 0 messages to DC 4
+Session:        	Resetting session in DC 4.0 due to creating initial session...
+Connection:     	Connecting to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection: 	Handling auth key transition to UNENCRYPTED_NO_PERMANENT in DC 4
+DataCenterConnection: 	Generating permanent authorization key for DC 4...
+Connection:     	Connected to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+AuthKeyHandler: 	Factorizing with native_single_cpp (please wait, might take a while)
+AuthKeyHandler: 	Factorizing with python_single_alt (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with python_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with native_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Auth key generated
+DataCenterConnection: 	Finished auth key transition to UNENCRYPTED_NO_PERMANENT in DC 4
+DataCenterConnection: 	Handling auth key transition to UNENCRYPTED in DC 4
+DataCenterConnection: 	Generating temporary authorization key for DC 4...
+AuthKeyHandler: 	Factorizing with native_single_cpp (please wait, might take a while)
+AuthKeyHandler: 	Factorizing with python_single_alt (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with python_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Factorizing with native_single (please wait, might take a while)
+AuthKeyHandler: 	Install https://prime.madelineproto.xyz and the FFI extension to speed this up!
+AuthKeyHandler: 	Auth key generated
+DataCenterConnection: 	Finished auth key transition to UNENCRYPTED in DC 4
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_BOUND in DC 4
+DataCenterConnection: 	Bound temporary and permanent authorization keys, DC 4
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_INITED in DC 4
+DataCenterConnection: 	Writing client info (also executing help.getConfig)...
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED_NOT_INITED in DC 4
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 4
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED_NOT_AUTHED_NO_LOGIN in DC 4
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+Login:          	Logged in successfully!
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED_NOT_AUTHED in DC 2
+DataCenterConnection: 	Trying to copy authorization from DC 4 to DC 2
+DataCenterConnection: 	Handling auth key transition to ENCRYPTED in DC 4
+DataCenterConnection: 	Finished auth key transition to ENCRYPTED in DC 4
+entry:          	A restart was triggered!
+APIWrapper:     	Shutting down MadelineProto (danog\MadelineProto\API)
+MTProto:        	Will unreference instance
+DataCenterConnection: 	Disconnecting from shared DC 2
+Connection:     	Disconnecting from DC 2.0
+DataCenterConnection: 	Backed up  from DC 2.0
+Connection:     	Disconnected from DC 2.0
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 2
+DataCenterConnection: 	Disconnecting from shared DC 4
+Connection:     	Disconnecting from DC 4.0
+DataCenterConnection: 	Backed up updates.getState, updates.getState, updates.getState, auth.exportAuthorization, msg_container, ping_delay_disconnect,  from DC 4.0
+Connection:     	Disconnected from DC 4.0
+DataCenterConnection: 	Backed up 6, added to 0 existing messages) from DC 4
+MTProto:        	Unreferenced instance
+APIWrapper:     	Prompting final serialization...
+ReadLoop:       	Stopping read loop in DC 2.0 due to reconnect...
+ReadLoop:       	Stopping read loop in DC 4.0 due to reconnect...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper:     	Saved session!
+APIWrapper:     	Done final serialization!
+Serialization:  	Unlocking exclusive session lock!
+Serialization:  	Unlocked exclusive session lock!
+MTProto:        	Shutting down MadelineProto (MTProto)
+MTProto:        	Will unreference instance
+DataCenterConnection: 	Disconnecting from shared DC 2
+DataCenterConnection: 	Backed up 0, added to 0 existing messages) from DC 2
+DataCenterConnection: 	Disconnecting from shared DC 4
+DataCenterConnection: 	Backed up 0, added to 6 existing messages) from DC 4
+MTProto:        	Unreferenced instance
+MTProto:        	Successfully destroyed MadelineProto
+Logger:         	MadelineProto 8.6.0
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter, selfrivalbot:     	Connecting to DC 4
+DataCenterConnection, selfrivalbot: 	Restoring 0 messages to DC 4
+Session, selfrivalbot:        	Resetting session in DC 4.0 due to creating initial session...
+Connection, selfrivalbot:     	Connecting to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection, selfrivalbot: 	Handling auth key transition to ENCRYPTED in DC 4
+DataCenterConnection, selfrivalbot: 	Finished auth key transition to ENCRYPTED in DC 4
+Connection, selfrivalbot:     	Connected to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+FeedLoop, selfrivalbot:       	Resumed update feed loop generic
+APIWrapper, selfrivalbot:     	MadelineProto is ready!
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+entry, selfrivalbot:          	A restart was triggered!
+APIWrapper, selfrivalbot:     	Shutting down MadelineProto (danog\MadelineProto\API)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+Connection, selfrivalbot:     	Disconnecting from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up updates.getDifference, msg_container,  from DC 4.0
+Connection, selfrivalbot:     	Disconnected from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up 2, added to 0 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+APIWrapper, selfrivalbot:     	Prompting final serialization...
+ReadLoop, selfrivalbot:       	Stopping read loop in DC 4.0 due to reconnect...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper, selfrivalbot:     	Saved session!
+APIWrapper, selfrivalbot:     	Done final serialization!
+Serialization, selfrivalbot:  	Unlocking exclusive session lock!
+Serialization, selfrivalbot:  	Unlocked exclusive session lock!
+MTProto, selfrivalbot:        	Shutting down MadelineProto (MTProto)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+DataCenterConnection, selfrivalbot: 	Backed up 0, added to 2 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+MTProto, selfrivalbot:        	Successfully destroyed MadelineProto
+Logger:         	MadelineProto 8.6.0
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter, selfrivalbot:     	Connecting to DC 4
+DataCenterConnection, selfrivalbot: 	Restoring 0 messages to DC 4
+Session, selfrivalbot:        	Resetting session in DC 4.0 due to creating initial session...
+Connection, selfrivalbot:     	Connecting to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection, selfrivalbot: 	Handling auth key transition to ENCRYPTED in DC 4
+DataCenterConnection, selfrivalbot: 	Finished auth key transition to ENCRYPTED in DC 4
+FeedLoop, selfrivalbot:       	Resumed update feed loop generic
+Connection, selfrivalbot:     	Connected to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+FeedLoop, selfrivalbot:       	Resumed update feed loop generic
+APIWrapper, selfrivalbot:     	MadelineProto is ready!
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+entry, selfrivalbot:          	A restart was triggered!
+APIWrapper, selfrivalbot:     	Shutting down MadelineProto (danog\MadelineProto\API)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+Connection, selfrivalbot:     	Disconnecting from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up  from DC 4.0
+Connection, selfrivalbot:     	Disconnected from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up 0, added to 0 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+APIWrapper, selfrivalbot:     	Prompting final serialization...
+ReadLoop, selfrivalbot:       	Stopping read loop in DC 4.0 due to reconnect...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper, selfrivalbot:     	Saved session!
+APIWrapper, selfrivalbot:     	Done final serialization!
+Serialization, selfrivalbot:  	Unlocking exclusive session lock!
+Serialization, selfrivalbot:  	Unlocked exclusive session lock!
+MTProto, selfrivalbot:        	Shutting down MadelineProto (MTProto)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+DataCenterConnection, selfrivalbot: 	Backed up 0, added to 0 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+MTProto, selfrivalbot:        	Successfully destroyed MadelineProto
+Logger:         	MadelineProto 8.6.0
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter, selfrivalbot:     	Connecting to DC 4
+DataCenterConnection, selfrivalbot: 	Restoring 0 messages to DC 4
+Session, selfrivalbot:        	Resetting session in DC 4.0 due to creating initial session...
+Connection, selfrivalbot:     	Connecting to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection, selfrivalbot: 	Handling auth key transition to ENCRYPTED in DC 4
+DataCenterConnection, selfrivalbot: 	Finished auth key transition to ENCRYPTED in DC 4
+FeedLoop, selfrivalbot:       	Resumed update feed loop generic
+Connection, selfrivalbot:     	Connected to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+FeedLoop, selfrivalbot:       	Resumed update feed loop generic
+APIWrapper, selfrivalbot:     	MadelineProto is ready!
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+entry, selfrivalbot:          	A restart was triggered!
+APIWrapper, selfrivalbot:     	Shutting down MadelineProto (danog\MadelineProto\API)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+Connection, selfrivalbot:     	Disconnecting from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up  from DC 4.0
+Connection, selfrivalbot:     	Disconnected from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up 0, added to 0 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+APIWrapper, selfrivalbot:     	Prompting final serialization...
+ReadLoop, selfrivalbot:       	Stopping read loop in DC 4.0 due to reconnect...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper, selfrivalbot:     	Saved session!
+APIWrapper, selfrivalbot:     	Done final serialization!
+Serialization, selfrivalbot:  	Unlocking exclusive session lock!
+Serialization, selfrivalbot:  	Unlocked exclusive session lock!
+MTProto, selfrivalbot:        	Shutting down MadelineProto (MTProto)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+DataCenterConnection, selfrivalbot: 	Backed up 0, added to 0 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+MTProto, selfrivalbot:        	Successfully destroyed MadelineProto
+Logger:         	MadelineProto 8.6.0
+Logger:         	Copyright (C) 2016-2025 Daniil Gentili
+Logger:         	Licensed under AGPLv3
+Logger:         	https://github.com/danog/MadelineProto
+Serialization:  	Got exclusive session lock!
+DataCenter, selfrivalbot:     	Connecting to DC 4
+DataCenterConnection, selfrivalbot: 	Restoring 0 messages to DC 4
+Session, selfrivalbot:        	Resetting session in DC 4.0 due to creating initial session...
+Connection, selfrivalbot:     	Connecting to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream 
+DataCenterConnection, selfrivalbot: 	Handling auth key transition to ENCRYPTED in DC 4
+DataCenterConnection, selfrivalbot: 	Finished auth key transition to ENCRYPTED in DC 4
+FeedLoop, selfrivalbot:       	Resumed update feed loop generic
+Connection, selfrivalbot:     	Connected to DC 4.0 via tcp://149.154.167.92:443 main DC 4, via ipv4 using AbridgedStream => BufferedRawStream => DefaultStream!
+FeedLoop, selfrivalbot:       	Resumed update feed loop generic
+APIWrapper, selfrivalbot:     	MadelineProto is ready!
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/ipcState.php.lock...
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+AbstractServer, selfrivalbot: 	Accepted IPC client connection!
+entry, selfrivalbot:          	A restart was triggered!
+APIWrapper, selfrivalbot:     	Shutting down MadelineProto (danog\MadelineProto\API)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+Connection, selfrivalbot:     	Disconnecting from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up  from DC 4.0
+Connection, selfrivalbot:     	Disconnected from DC 4.0
+DataCenterConnection, selfrivalbot: 	Backed up 0, added to 0 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+APIWrapper, selfrivalbot:     	Prompting final serialization...
+ReadLoop, selfrivalbot:       	Stopping read loop in DC 4.0 due to reconnect...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/safe.php.lock...
+SessionPaths, selfrivalbot:   	Waiting for exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+SessionPaths, selfrivalbot:   	Got exclusive lock of /home/runner/workspace/BotSorce.madeline/lightState.php.lock...
+APIWrapper, selfrivalbot:     	Saved session!
+APIWrapper, selfrivalbot:     	Done final serialization!
+Serialization, selfrivalbot:  	Unlocking exclusive session lock!
+Serialization, selfrivalbot:  	Unlocked exclusive session lock!
+MTProto, selfrivalbot:        	Shutting down MadelineProto (MTProto)
+MTProto, selfrivalbot:        	Will unreference instance
+DataCenterConnection, selfrivalbot: 	Disconnecting from shared DC 4
+DataCenterConnection, selfrivalbot: 	Backed up 0, added to 0 existing messages) from DC 4
+MTProto, selfrivalbot:        	Unreferenced instance
+MTProto, selfrivalbot:        	Successfully destroyed MadelineProto
