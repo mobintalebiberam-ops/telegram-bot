@@ -24,6 +24,12 @@ file_put_contents('part.txt','off');
 include 'madeline.php';
 if(file_exists('jdf.php')) include 'jdf.php';
 
+// Start the bot with MadelineProto v8 API
+$settings = new Settings;
+$settings->getAppInfo()
+    ->setApiId(2834)
+    ->setApiHash('68875f756c9b437a8b916ca3de215215');
+$settings->getLogger()->setLevel(\danog\MadelineProto\Logger::WARNING);
 use danog\MadelineProto\Settings;
 use danog\MadelineProto\Settings\AppInfo;
 use danog\MadelineProto\Settings\Logger;
